@@ -1,4 +1,5 @@
 <img align="centre" alt="Coding" width="850" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<img align="centre" alt="Coding" width="850" src="https://github.com/HARSHMORE093/HARSHMORE093/assets/80156271/7da189cf-d951-45d7-abf1-cbacd036ed0c">
 <h1 align="center">Hi 👋, I'm Harsh More</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
