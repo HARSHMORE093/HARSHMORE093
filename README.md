@@ -1,4 +1,4 @@
-<img align="centre" alt="Coding" width="1000" height="400" src="https://github.com/HARSHMORE093/HARSHMORE093/assets/80156271/ad49f4d1-cc63-4d13-8ccd-6b4ba20d2ee8">
+<img align="centre" alt="Coding" width="800" height="400" src="https://github.com/HARSHMORE093/HARSHMORE093/assets/80156271/ad49f4d1-cc63-4d13-8ccd-6b4ba20d2ee8">
 <h1 align="center">Hi 👋, I'm Harsh More</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
