@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/harshmore093" target="blank"><img src="https://img.shields.io/twitter/follow/harshmore093?logo=twitter&style=for-the-badge" alt="harshmore093" /></a> </p>
 
-- 🔭 I’m currently working on **News App**
-
 - 🌱 I’m currently learning **Data structure and algorithms**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android** and **MERN**.
 
-- 📫 How to reach me **harshmore093@gmail.com**
+- 📫 How to reach me **harshmore1221@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
